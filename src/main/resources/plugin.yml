@@ -1,0 +1,13 @@
+name: JonahsEssentials
+version: '${project.version}'
+main: me.jonah.jonahsessentals.JonahsEssentials
+api-version: '1.20'
+author: 'Jonah'
+commands:
+  kill:
+    description: Take the easy way out
+    usage: /kill
+
+  ping:
+    description: Display your current network ping
+    usage: /ping
